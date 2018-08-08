@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wayBillPreview1",
+    "texture": "e618e66f-341c-4b81-8d68-f72474c07e26",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      19,
+      19
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      19,
+      19
+    ]
+  }
+}

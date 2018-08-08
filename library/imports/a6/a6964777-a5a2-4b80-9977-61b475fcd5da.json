@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "word_check_roomcard",
+    "texture": "653b828d-91df-4247-a3dc-5ed273695650",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      40
+    ]
+  }
+}

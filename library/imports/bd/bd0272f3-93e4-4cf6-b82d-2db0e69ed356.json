@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_dd_big",
+    "texture": "7482c8a9-8a7b-4eda-95ba-e693a264798c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      105,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      104
+    ]
+  }
+}

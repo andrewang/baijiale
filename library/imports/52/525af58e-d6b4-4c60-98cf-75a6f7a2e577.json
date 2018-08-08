@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poker_mh_j",
+    "texture": "fde97b5b-cea2-42f3-a9a1-3b0ad2198536",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      131
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      131
+    ]
+  }
+}

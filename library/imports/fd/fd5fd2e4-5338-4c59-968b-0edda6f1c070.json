@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poker_black_9",
+    "texture": "511f45ff-cd0e-4ba1-9678-f1f5a9e12ec8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      172
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      172
+    ]
+  }
+}

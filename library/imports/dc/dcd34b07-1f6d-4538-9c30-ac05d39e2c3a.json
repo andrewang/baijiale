@@ -1,0 +1,635 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "CreateRoom_a",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "beam": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 150
+            },
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 150
+            }
+          ]
+        }
+      },
+      "beam_add": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 150
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 2
+            },
+            {
+              "frame": 1,
+              "value": 2.1
+            },
+            {
+              "frame": 2,
+              "value": 2
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 422.8
+            },
+            {
+              "frame": 1,
+              "value": 433
+            },
+            {
+              "frame": 2,
+              "value": 422.8
+            }
+          ]
+        }
+      },
+      "poker": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 435
+            },
+            {
+              "frame": 1,
+              "value": 425
+            },
+            {
+              "frame": 2,
+              "value": 435
+            }
+          ]
+        }
+      },
+      "crown": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 340
+            },
+            {
+              "frame": 1,
+              "value": 350
+            },
+            {
+              "frame": 2,
+              "value": 340
+            }
+          ]
+        }
+      },
+      "ButtonLight": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 155
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ornament_add": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 128
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "jewel_01": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 20
+            },
+            {
+              "frame": 2,
+              "value": 110
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 1178
+            },
+            {
+              "frame": 2,
+              "value": 1219
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 359
+            },
+            {
+              "frame": 2,
+              "value": 446
+            }
+          ]
+        }
+      },
+      "jewel_02": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 255
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -70
+            },
+            {
+              "frame": 2,
+              "value": 19.25
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 1110
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 1130.2
+            },
+            {
+              "frame": 1.25,
+              "value": 1157.6110416666666
+            },
+            {
+              "frame": 2,
+              "value": 1177.4441666666667
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 221
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 272.1
+            },
+            {
+              "frame": 1.25,
+              "value": 324.9689583333333
+            },
+            {
+              "frame": 2,
+              "value": 357.87583333333333
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.4
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.4
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "jewel_05": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 150
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.3333333333333333,
+              "value": -30
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": -120
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 1013
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 978
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 475
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 552
+            }
+          ]
+        }
+      },
+      "jewel_06": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 155
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 60
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": -120
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.5833333333333334,
+              "value": 1132.8
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 1142.6
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 1156
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.5833333333333334,
+              "value": 460.7
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 490.1
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 555
+            }
+          ]
+        }
+      },
+      "jewel_03": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 230
+            },
+            {
+              "frame": 1,
+              "value": 230
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -36.50000000000004
+            },
+            {
+              "frame": 2,
+              "value": 160
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 346.4
+            },
+            {
+              "frame": 2,
+              "value": 505
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 964.3
+            },
+            {
+              "frame": 2,
+              "value": 909
+            }
+          ]
+        }
+      },
+      "jewel_04": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 155
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 230
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 1,
+              "value": -180
+            },
+            {
+              "frame": 2,
+              "value": -37.692857142857136
+            }
+          ],
+          "x": [
+            {
+              "frame": 1,
+              "value": 1012.9
+            },
+            {
+              "frame": 2,
+              "value": 965.2414285714285
+            }
+          ],
+          "y": [
+            {
+              "frame": 1,
+              "value": 229.3
+            },
+            {
+              "frame": 2,
+              "value": 344.7342857142857
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1,
+              "value": 0.4
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1,
+              "value": 0.4
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "jewel_07": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0.31666666666666665,
+              "value": 30
+            },
+            {
+              "frame": 1.15,
+              "value": 260
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.31666666666666665,
+              "value": 0
+            },
+            {
+              "frame": 1.15,
+              "value": 230
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.31666666666666665,
+              "value": 1028.1
+            },
+            {
+              "frame": 1.15,
+              "value": 1072.3
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.31666666666666665,
+              "value": 212.8
+            },
+            {
+              "frame": 1.15,
+              "value": 275.8
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.31666666666666665,
+              "value": 0.2
+            },
+            {
+              "frame": 1.15,
+              "value": 0.8
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.31666666666666665,
+              "value": 0.2
+            },
+            {
+              "frame": 1.15,
+              "value": 0.8
+            }
+          ]
+        }
+      },
+      "jewel_08": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.25,
+              "value": 0
+            },
+            {
+              "frame": 1.5833333333333333,
+              "value": 128
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 1.25,
+              "value": 120
+            },
+            {
+              "frame": 1.9333333333333333,
+              "value": -10
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1.25,
+              "value": 0
+            },
+            {
+              "frame": 1.5833333333333333,
+              "value": 0.4
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1.25,
+              "value": 0
+            },
+            {
+              "frame": 1.5833333333333333,
+              "value": 0.4
+            }
+          ],
+          "x": [
+            {
+              "frame": 1.25,
+              "value": 1089.1
+            },
+            {
+              "frame": 1.9166666666666667,
+              "value": 1063.3
+            }
+          ],
+          "y": [
+            {
+              "frame": 1.25,
+              "value": 213
+            },
+            {
+              "frame": 1.9166666666666667,
+              "value": 274.3
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

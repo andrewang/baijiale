@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zs3",
+    "texture": "661d54b6-8a54-40af-aa39-1af48de6a5d7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      116,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      116,
+      85
+    ]
+  }
+}

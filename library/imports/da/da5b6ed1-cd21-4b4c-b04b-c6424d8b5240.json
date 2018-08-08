@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lobby_head_bg_id_photo_bg",
+    "texture": "784f7c07-fa02-4fcf-91e3-a40913b18c91",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      134,
+      142
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      134,
+      142
+    ]
+  }
+}

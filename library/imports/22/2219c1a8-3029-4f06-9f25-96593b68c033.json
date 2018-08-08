@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lobby_Characters_0008",
+    "texture": "59b2e0df-a530-4750-ab47-6df83478bcb8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      484,
+      587
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      484,
+      587
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_ower_myself",
+    "texture": "cc1af139-38fd-4b85-9296-bc915a20bacb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      189,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      189,
+      85
+    ]
+  }
+}

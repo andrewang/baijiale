@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_ludan",
+    "texture": "9dbab6d6-9549-452c-99e1-68befa3aac06",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      855,
+      485
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      855,
+      485
+    ],
+    "capInsets": [
+      197,
+      94,
+      177,
+      133
+    ]
+  }
+}

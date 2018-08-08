@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fc6c3427-afbf-410d-84f3-18bf16e4fbc8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "icon_wecha_share_big": {
+      "ver": "1.0.3",
+      "uuid": "dfc58772-6d41-4fd0-aaa8-7f075c13dcf3",
+      "rawTextureUuid": "fc6c3427-afbf-410d-84f3-18bf16e4fbc8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 105,
+      "height": 104,
+      "rawWidth": 105,
+      "rawHeight": 104,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "df59ca64-0e1f-4872-b931-2113adbe0374",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "lobby_body_createroom_pedestal": {
+      "ver": "1.0.3",
+      "uuid": "a2071cad-b9d7-4a00-85f3-804c8d96104a",
+      "rawTextureUuid": "df59ca64-0e1f-4872-b931-2113adbe0374",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 346,
+      "height": 144,
+      "rawWidth": 346,
+      "rawHeight": 144,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

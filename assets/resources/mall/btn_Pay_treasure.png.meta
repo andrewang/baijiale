@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b94e3cc7-c50e-4a30-8162-889455111239",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "btn_Pay_treasure": {
+      "ver": "1.0.3",
+      "uuid": "2fd8c960-5a47-4018-95dd-07209c6acb43",
+      "rawTextureUuid": "b94e3cc7-c50e-4a30-8162-889455111239",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 230,
+      "height": 87,
+      "rawWidth": 230,
+      "rawHeight": 87,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

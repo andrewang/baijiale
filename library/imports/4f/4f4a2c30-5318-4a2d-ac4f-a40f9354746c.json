@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dissolution_btn",
+    "texture": "17236228-55c7-4024-b662-32673b1058bf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      188,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      188,
+      78
+    ]
+  }
+}

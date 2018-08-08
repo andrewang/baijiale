@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "headline_playing",
+    "texture": "93c03eb1-e627-4b8e-b7b1-22da53f17577",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      177,
+      53
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      177,
+      53
+    ]
+  }
+}

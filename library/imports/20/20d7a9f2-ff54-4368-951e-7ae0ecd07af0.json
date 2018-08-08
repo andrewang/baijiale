@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_act_mark",
+    "texture": "7ef2effd-dec2-4baf-8600-54aa24dd42d0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      159,
+      4
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      159,
+      4
+    ]
+  }
+}

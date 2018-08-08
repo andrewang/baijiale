@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roomcard",
+    "texture": "9a4a1e56-506b-4796-94bc-5b842ffe05d5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      83,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      77
+    ]
+  }
+}

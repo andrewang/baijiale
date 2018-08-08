@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lobby_head_jewel",
+    "texture": "a2f907a9-b24c-41d3-96d9-948580505e84",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      156,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      46
+    ]
+  }
+}

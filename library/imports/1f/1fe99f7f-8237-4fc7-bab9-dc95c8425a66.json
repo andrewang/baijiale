@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_act_mark",
+    "texture": "cbd48b65-bba7-4625-968e-adfc7017e2f6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      202,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      202,
+      68
+    ]
+  }
+}

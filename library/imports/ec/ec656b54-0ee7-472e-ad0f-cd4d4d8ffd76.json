@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "weChat_share_btn",
+    "texture": "00690df2-5fe8-445f-82c0-f306099e57ce",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      86
+    ]
+  }
+}

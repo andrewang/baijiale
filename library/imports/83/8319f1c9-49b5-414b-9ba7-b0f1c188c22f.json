@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lobby_body_joinroom_beam",
+    "texture": "4b8d12a4-bd8a-41c8-aa4e-db222af33651",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      217,
+      203
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      217,
+      204
+    ]
+  }
+}

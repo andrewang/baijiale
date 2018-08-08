@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poker_red_q",
+    "texture": "3405cccd-3f30-4959-ac79-ea8290c8ee52",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      391,
+      246
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      391,
+      246
+    ]
+  }
+}

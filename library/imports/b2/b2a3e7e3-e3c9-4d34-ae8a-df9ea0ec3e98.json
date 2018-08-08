@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "example_notic",
+    "texture": "c8c23db1-7cb9-428e-82d4-d9090cd614ed",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      939,
+      471
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      939,
+      471
+    ]
+  }
+}

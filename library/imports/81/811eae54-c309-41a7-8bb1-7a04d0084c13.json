@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lobby_body_createroom_jewel",
+    "texture": "885b5bbf-6f07-4af4-b922-2ee6af570177",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      38,
+      32
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nodeYes",
+    "texture": "cf074405-4c03-4318-a4ad-f6443a9d5476",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      14,
+      14
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      14,
+      14
+    ]
+  }
+}

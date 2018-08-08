@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fed0aa86-9f43-4673-9386-86bc37446365",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "skycard_0006": {
+      "ver": "1.0.3",
+      "uuid": "89f58590-825a-4e27-a0c5-9ff802cd5df5",
+      "rawTextureUuid": "fed0aa86-9f43-4673-9386-86bc37446365",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 120,
+      "height": 113,
+      "rawWidth": 120,
+      "rawHeight": 113,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

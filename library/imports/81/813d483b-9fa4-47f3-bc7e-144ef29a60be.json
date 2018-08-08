@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_jewel",
+    "texture": "c4e99768-db05-4f11-af93-628597bebaa3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      56,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      56,
+      45
+    ]
+  }
+}

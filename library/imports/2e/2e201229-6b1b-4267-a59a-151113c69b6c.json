@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_ower",
+    "texture": "a1eacb16-cd3c-4904-9a99-ccf42879ae69",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      65,
+      20
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      20
+    ]
+  }
+}

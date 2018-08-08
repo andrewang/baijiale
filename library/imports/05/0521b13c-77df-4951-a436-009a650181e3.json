@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lobby_body_joinroom_ornament",
+    "texture": "8e0c09a7-800a-4d59-ad92-3270e3b643f8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      35
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lobby_head_bg_id",
+    "texture": "81770969-55ca-46a2-815b-632d7cf862a1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      832,
+      110
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      832,
+      110
+    ]
+  }
+}

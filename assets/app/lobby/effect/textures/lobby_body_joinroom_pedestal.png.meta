@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "22fdc2e0-bd49-4b5a-87f4-815769c37001",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "lobby_body_joinroom_pedestal": {
+      "ver": "1.0.3",
+      "uuid": "3e1317ca-f23d-4b10-a43e-0caab74c3042",
+      "rawTextureUuid": "22fdc2e0-bd49-4b5a-87f4-815769c37001",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 346,
+      "height": 141,
+      "rawWidth": 346,
+      "rawHeight": 141,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

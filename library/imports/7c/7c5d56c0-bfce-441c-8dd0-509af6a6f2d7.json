@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "skycard_0001",
+    "texture": "4b7f081c-c1ba-4a35-8fc6-c088d97443ee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      113
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      113
+    ]
+  }
+}

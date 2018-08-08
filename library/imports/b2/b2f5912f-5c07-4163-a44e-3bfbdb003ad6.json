@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jipaicontent",
+    "texture": "0f8ad2d0-3053-4500-9b13-e749e6d7ab01",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      974,
+      2410
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      974,
+      2410
+    ]
+  }
+}

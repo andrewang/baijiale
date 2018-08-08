@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "label_xianyin",
+    "texture": "1f6dee67-9b1c-41dc-9ffe-18216ae9c10d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      159,
+      84
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      159,
+      84
+    ]
+  }
+}

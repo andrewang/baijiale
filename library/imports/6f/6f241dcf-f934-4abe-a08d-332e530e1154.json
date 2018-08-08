@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lobby_body_createroom_beam",
+    "texture": "fbd585b8-1ba8-443f-8aed-71a19c49642b",
+    "atlas": "",
+    "rect": [
+      0,
+      43,
+      223,
+      212
+    ],
+    "offset": [
+      -0.5,
+      -21.5
+    ],
+    "originalSize": [
+      224,
+      255
+    ]
+  }
+}

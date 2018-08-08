@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6cb7a4bd-1617-409d-9132-edd9074c697f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "game_qiepai_arrows": {
+      "ver": "1.0.3",
+      "uuid": "f69f21f7-be71-4d8d-ba49-dafa6e43e7a6",
+      "rawTextureUuid": "6cb7a4bd-1617-409d-9132-edd9074c697f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 77,
+      "height": 43,
+      "rawWidth": 77,
+      "rawHeight": 43,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

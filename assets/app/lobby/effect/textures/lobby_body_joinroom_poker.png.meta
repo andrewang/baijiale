@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ee292280-07b8-4207-96ba-609fd7121811",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "lobby_body_joinroom_poker": {
+      "ver": "1.0.3",
+      "uuid": "2e28a156-951a-40cb-b5e6-7d8bf1fca1df",
+      "rawTextureUuid": "ee292280-07b8-4207-96ba-609fd7121811",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 255,
+      "height": 265,
+      "rawWidth": 255,
+      "rawHeight": 266,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

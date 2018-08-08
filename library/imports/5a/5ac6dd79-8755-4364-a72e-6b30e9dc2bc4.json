@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_apple_pay",
+    "texture": "1cbed975-58d3-4e62-9a98-9e3d3491d63b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      230,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      230,
+      87
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_wecha_share_big",
+    "texture": "fc6c3427-afbf-410d-84f3-18bf16e4fbc8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      105,
+      104
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      104
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lobby_head_btn_share",
+    "texture": "238fbea7-b9eb-41f3-b7ab-ca067c9fb199",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      158,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      158,
+      80
+    ]
+  }
+}

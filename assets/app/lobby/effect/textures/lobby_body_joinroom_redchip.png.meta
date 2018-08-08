@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ee696a6f-3821-43f6-b4b9-4220dc483c58",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "lobby_body_joinroom_redchip": {
+      "ver": "1.0.3",
+      "uuid": "b860eb49-9a16-4159-a132-656b80e29d95",
+      "rawTextureUuid": "ee696a6f-3821-43f6-b4b9-4220dc483c58",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 45,
+      "height": 45,
+      "rawWidth": 45,
+      "rawHeight": 45,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

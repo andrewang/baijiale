@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "poker_back_2",
+    "texture": "da0ba1b4-0c05-4671-8ef4-26fa0957fc43",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      219,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      219,
+      116
+    ]
+  }
+}

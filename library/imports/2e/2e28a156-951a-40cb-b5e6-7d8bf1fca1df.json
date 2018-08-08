@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lobby_body_joinroom_poker",
+    "texture": "ee292280-07b8-4207-96ba-609fd7121811",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      255,
+      265
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      255,
+      266
+    ]
+  }
+}

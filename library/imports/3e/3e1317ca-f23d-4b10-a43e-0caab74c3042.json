@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lobby_body_joinroom_pedestal",
+    "texture": "22fdc2e0-bd49-4b5a-87f4-815769c37001",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      346,
+      141
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      346,
+      141
+    ]
+  }
+}

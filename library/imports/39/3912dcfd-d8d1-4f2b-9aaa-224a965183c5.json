@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "btn_jewel.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "btn_jewel": {
+      "__uuid__": "4f8fd4b5-1b5c-4f18-8e8f-c2246fa774cb"
+    },
+    "btn_roomcard": {
+      "__uuid__": "25163ac8-51d1-421b-9025-b239a5dd17d0"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_xmkf",
+    "texture": "25c820b3-2496-4a8b-ad27-3dcd24331ae8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      225,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      225,
+      77
+    ]
+  }
+}

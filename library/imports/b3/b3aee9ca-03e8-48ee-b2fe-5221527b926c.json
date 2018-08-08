@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jipaiB",
+    "texture": "53b82c84-d259-4071-96c5-850288c61cb2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      974,
+      673
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      974,
+      673
+    ]
+  }
+}

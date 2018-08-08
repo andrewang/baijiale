@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lobby_gameTips_bg",
+    "texture": "277faa32-a7ce-4498-8847-9c0e87e1b7cb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      741,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      741,
+      48
+    ]
+  }
+}

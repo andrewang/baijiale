@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f4543d05-038c-4ede-8b71-8854dd4c3d11",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "bigway_head_blue": {
+      "ver": "1.0.3",
+      "uuid": "1c6aad52-f6b5-44a8-8e7c-788bf466677f",
+      "rawTextureUuid": "f4543d05-038c-4ede-8b71-8854dd4c3d11",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 12,
+      "height": 12,
+      "rawWidth": 12,
+      "rawHeight": 12,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

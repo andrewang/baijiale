@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lobby_head_btn_record",
+    "texture": "2f36d853-5138-4b3d-8fd3-ae0d5b28f88f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      159,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      159,
+      80
+    ]
+  }
+}

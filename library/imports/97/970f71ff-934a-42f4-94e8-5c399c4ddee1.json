@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thancard_00001",
+    "texture": "0bf37015-0694-4f99-b4c1-badb61198d58",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      70
+    ]
+  }
+}
